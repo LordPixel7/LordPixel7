@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LordPixel7
-- 👀 I’m interested in ... soccer
-- 🌱 I’m currently learning ... algebra
+- 👀 I’m interested in soccer
+- 🌱 I’m currently learning algebra
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
